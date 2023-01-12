@@ -24,11 +24,11 @@ I learned how to do responsive correctly.
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.google.com/specimen/Outfit?query=outfit) - This helped me for finde fonts.
+- google fonts(https://fonts.google.com/specimen/Outfit?query=outfit) - This helped me for finde fonts.
 
 
 
 ## Author
 
-- Twitter - [@yourusername](https://twitter.com/tinijaniashvili?t=mGrneTUvJY0Jj0PsxUF2Yg&s=09)
-- Linkdin - [@yourusername](https://www.linkedin.com/in/tiniko-janiashvili-b012a3205)
+- Twitter - tinijaniashvili(https://twitter.com/tinijaniashvili?t=mGrneTUvJY0Jj0PsxUF2Yg&s=09)
+- Linkdin - tinikojaniashvili(https://www.linkedin.com/in/tiniko-janiashvili-b012a3205)
